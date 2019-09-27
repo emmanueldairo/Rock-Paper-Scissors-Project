@@ -44,3 +44,10 @@ Github: blankkcanvas
 Computer Science, 3rd Year
 Github: juliaziqingcai
 Fun fact: I'm only 151cm tall!
+
+## Emmanuel Dairo
+4th year comp sci: java is my strongest suit, I have experience with JS,C and C++, but barely did anything in python  :(
+
+<p align="left">
+  <img src="images/Emmanuel.jpeg" width="200" title="Emmanuel Dairo">
+</p>
